@@ -1,0 +1,8 @@
+api:
+  url:
+    host: http://localhost:8085
+    services:
+      lessons: /lessons
+      students: /students
+
+
